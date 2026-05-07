@@ -7,7 +7,7 @@ Visualizing this algorithm is a great way to start Image
 Working of this algorithm
 
     Start iterating over the array, take two elements from the begining
-    Check whether, they are in order or not. If not then swap them else leave them as they were
+    Check whether, they are in order or not. If not then swap them else leave tfwadadahem as they were
 
 NOTE: Repeat the above steps (n-1) times
 Complexity
