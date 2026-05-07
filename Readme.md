@@ -9,7 +9,7 @@ Working of this algorithm
     Start iterating over the array, take two elements from the begining
     Check whether, they are in order or not. If not then swap them else leave them as they were
 
-NOTE: Repeat the above steps (n-1) times
+NOTE: Repeat the abossave steps (n-1) times
 Complexity
 
 The complexity of bubble sort algorithms is O(n^2) in both worst and average cases.
